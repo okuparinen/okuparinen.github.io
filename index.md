@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="assets/images/Olli_wall.jpg" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="assets/images/Olli_wall.jpg" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Introduction
 
