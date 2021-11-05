@@ -11,13 +11,14 @@ I defended my [PhD thesis](http://urn.fi/URN:ISBN:978-952-03-1990-8) in Finnish 
 ## Research interests
 
 * Language variation and change
-* Statistical and technological methods in modeling dialectal differences
+* Computational methods in modeling dialectal differences
 
 ## Projects
 
-* [CorCoDial project](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl) 
-led by university lecturer [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/) 2021-
-* [Kippo project](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020) 2017-2020
+* [CorCoDial project](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), University of Helsinki 2021-  
+PI [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/) 2021-
+* [Kippo project](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020), Tampere University 2017-2020  
+PI Unni Leino
 
 ## Contact
 
