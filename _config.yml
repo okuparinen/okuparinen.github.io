@@ -1,5 +1,20 @@
 title: Olli Kuparinen
-description: Languages, technology and cycling might appear here.
+tagline: Languages, technology and cycling might appear here.
+description: Olli Kuparinen's website to share professional and unprofessional information.
+author: KuparinenOlli
+twitter:
+  username: KuparinenOlli
+  card: summary
+permalink: /:title/
+social:
+  name: Olli Kuparinen
+  links:
+    - https://twitter.com/KuparinenOlli
+    - https://www.linkedin.com/in/olli-kuparinen
+    - https://github.com/okuparinen
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
