@@ -7,7 +7,6 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 defaults:
     -
