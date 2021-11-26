@@ -1,5 +1,8 @@
 ---
 layout: default
+lang: en
+i18n-link: cv
+title: CV
 ---
 
 ## Positions

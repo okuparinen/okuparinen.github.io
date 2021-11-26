@@ -1,9 +1,26 @@
 title: Olli Kuparinen
 tagline: Languages, technology and cycling might appear here.
-description: Olli Kuparinen's website to share professional and unprofessional information.
+description: Website of Olli Kuparinen to share professional and unprofessional information.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         lang: en
+         base-url: "/"
+         layout: default
+    -
+     scope:
+         path: fi
+     values:
+         lang: fi
+         base-url: "/fi/"
+
+

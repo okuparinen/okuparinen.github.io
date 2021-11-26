@@ -1,5 +1,8 @@
 ---
 layout: default
+lang: en
+i18n-link: index
+title: Olli
 ---
 <img src="assets/images/Olli_wall.jpg" alt="Photo" hspace="20" width="80%" align="center"/>
 
@@ -17,7 +20,7 @@ I defended my [PhD thesis](http://urn.fi/URN:ISBN:978-952-03-1990-8) in Finnish 
 
 * [CorCoDial project](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), University of Helsinki 2021-  
 PI [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/)
-* [Kippo project](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020), Tampere University 2017-2020  
+* [Kippo project](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020), Tampere University 2017-2021  
 PI Unni Leino
 
 ## Contact
@@ -33,4 +36,4 @@ PI Unni Leino
 
 ## Other things 
 
-I like cycling and might add some blog posts about that later.
+Cycling related things coming later.
