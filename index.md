@@ -3,6 +3,7 @@ layout: default
 lang: en
 i18n-link: index
 title: Olli
+permalink: /
 ---
 <img src="assets/images/Olli_wall.jpg" alt="Photo" hspace="20" width="80%" align="center"/>
 
