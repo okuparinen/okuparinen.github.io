@@ -8,7 +8,7 @@ title: CV
 ## Positions
 
 > **Postdoctoral researcher** in Language Technology (University of Helsinki) 2021-  
-> * Research on computational dialectology in Finnish and German
+> * Research on computational dialectology in Finnish, Norwegian and Swiss German
 
 > **Doctoral researcher** in Finnish language (Tampere University) 2017-2021  
 > * Research on Finnish spoken in Helsinki, linguistic change and lectal differences
