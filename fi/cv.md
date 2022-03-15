@@ -18,4 +18,8 @@ i18n-link: cv
 
 > **Filosofian tohtori, suomen kieli**, Informaatioteknologian ja viestinnän tiedekunta, Tampereen yliopisto, elokuu 2021  
 > * Väitöskirja ["Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä."](http://urn.fi/URN:ISBN:978-952-03-1990-8)
-> * E.A. Saarimaan rahaston artikkelipalkinto artikkelista [”Infinitiivien variaatio ja muutos Helsingissä”](https://doi.org/10.23982/vir.65310) (Virittäjä 122). Myöntänyt Kotikielen seura 14.3.2019.
+
+> **August Ahlqvistin, Yrjö Wichmannin, Kai Donnerin ja Artturi Kanniston rahastojen palkinto** väitöskirjasta Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä. 
+> * Myöntäneet Kotikielen Seura sekä Suomalais-Ugrilainen Seura 14.3.2022.
+> **E.A. Saarimaan rahaston artikkelipalkinto** artikkelista [”Infinitiivien variaatio ja muutos Helsingissä”](https://doi.org/10.23982/vir.65310) (Virittäjä 122). 
+> * Myöntänyt Kotikielen Seura 14.3.2019.
