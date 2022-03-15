@@ -21,5 +21,6 @@ title: CV
 
 > **August Ahlqvist, Yrjö Wichmann, Kai Donner and Artturi Kannisto's fund award** for the dissertation Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä. 
 > * Awarded by the Society for the Study of Finnish and The Finno-Ugrian Society March 14th, 2022.
+
 > **E.A. Saarimaa's fund award** for the article ”Infinitiivien variaatio ja muutos Helsingissä” (Virittäjä 122). 
 > * Awarded by the Society for the Study of Finnish March 14th, 2019.
