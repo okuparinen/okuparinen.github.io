@@ -19,6 +19,9 @@ title: CV
 > **Doctorate in Finnish Language**, Faculty of Information Technology and Communication Sciences, Tampere University August 2021  
 > * Title: Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä. [Mechanisms of Change. A three time point real time study in Finnish spoken in Helsinki.]
 
+> **The University of Tampere Foundation's award** for the dissertation Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä.
+> * Awarded on September 5th, 2022.
+
 > **August Ahlqvist, Yrjö Wichmann, Kai Donner and Artturi Kannisto's fund award** for the dissertation Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä. 
 > * Awarded by the Society for the Study of Finnish and The Finno-Ugrian Society March 14th, 2022.
 
