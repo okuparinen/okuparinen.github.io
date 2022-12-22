@@ -30,7 +30,7 @@
 	  <a class="sitelinks" href="index.html">{{ site.data.translations['homepage'][page.lang] }}</a> 
 	  <a class="sitelinks" href="cv.html">{{ site.data.translations['cv-page'][page.lang] }}</a> 
 	  <a class="sitelinks" href="publications.html">{{ site.data.translations['publications'][page.lang] }}</a> 
-          <a class="sitelinks" href="blog.html">{{ site.data.translations['blog'][page.lang] }}</a> 
+          <a class="sitelinks" href="murteet.html">{{ site.data.translations['murteet'][page.lang] }}</a> 
 	</div>
         {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
         {% if posts.size == 0 %}
