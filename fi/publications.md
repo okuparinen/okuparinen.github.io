@@ -13,10 +13,13 @@ i18n-link: publications
 [doi](https://doi.org/10.30673/sja.80056)
 * Kuparinen, Olli 2018: Infinitiivien variaatio ja muutos Helsingissä. Virittäjä 122 (1), 29–52.
 [doi](https://doi.org/10.23982/vir.65310)
-* Kuparinen, Olli – Santaharju, Jenni – Leino, Unni – Mustanoja, Liisa – Peltonen, Jaakko: Katomuotojen eteneminen yleiskielen hd-yhtymässä Helsingin puhekielessä. – Hyväksytty julkaistavaksi Virittäjässä.
+* Kuparinen, Olli – Santaharju, Jenni – Leino, Unni – Mustanoja, Liisa – Peltonen, Jaakko. 2022. Katomuotojen eteneminen yleiskielen hd-yhtymässä Helsingin puhekielessä. Virittäjä 126 (3). [doi](https://doi.org/10.23982/vir.100585).
+* Knuutila, Sini – Kuparinen, Olli – Mustanoja, Liisa – Peltonen, Jaakko – Leino, Unni – Santaharju, Jenni: Miksi kato leviää? hd-yhtymän katovariantin diffuusion syyt Helsingin puhekielessä. Sananjalka, 64(64). [doi](https://doi.org/10.30673/sja.115658)
+
 
 ## E Suurelle yleisölle suunnatut julkaisut, joilla on yhteys hakijan tutkimustyöhön
 * Älä jätä roikkuu – Infinitiivimuodot liikkeessä. [Virittäjä-blogi.](http://virittajablogi.kotikielenseura.fi/ala-jata-roikkuu-infinitiivimuodot-liikkeessa/)
+* Monena d maailmalla. [Virittäjä-blogi.](http://virittajablogi.kotikielenseura.fi/monena-d-maailmalla/)
 
 ## G Opinnäytteet
 * Kuparinen, Olli 2021: Muutoksen mekanismit. Kolmen aikapisteen reaaliaikatutkimus Helsingin puhekielestä. Tampereen yliopiston väitöskirjat 428.[URN](http://urn.fi/URN:ISBN:978-952-03-1990-8)

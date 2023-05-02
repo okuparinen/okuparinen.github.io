@@ -7,7 +7,7 @@ i18n-link: murteet
 
 <img src="../assets/images/murrealueet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
-Kaikkien karttojen pohjana on käytetty Kotimaisten kielten keskuksen Suomen murteiden sanakirjan karttapohjaa. Murrealuejako perustuu Lauri Kettusen (1940) kartastoihin ja kuvaa aikaa ennen toista maailmansotaa.
+Kaikkien karttojen pohjana on käytetty Kotimaisten kielten keskuksen Suomen murteiden sanakirjan karttapohjaa. Murrealuejako perustuu Lauri Kettusen (1940) kartastoihin ja kuvaa aikaa ennen toista maailmansotaa. Lisenssi: CC-BY 4.0.
 
 ## Peräpohjolan murteet
 

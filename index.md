@@ -11,7 +11,7 @@ title: Olli
 I am a postdoctoral researcher in [Language Technology](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki.  
 I defended my [PhD thesis](http://urn.fi/URN:ISBN:978-952-03-1990-8) in Finnish language in June 2021.
 
-I am visiting KU Leuven from 5 Sep to 2 Dec 2022.
+I visited KU Leuven from 5 Sep to 2 Dec 2022.
 
 ## Research interests
 
