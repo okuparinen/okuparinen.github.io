@@ -20,6 +20,8 @@ I visited KU Leuven from 5 Sep to 2 Dec 2022.
 
 ## Projects
 
+* [LANGAWARE](https://research.tuni.fi/arkisuomet/en/), Tampere University 2023-  
+PI [Johanna Vaattovaara](https://www.tuni.fi/en/johanna-vaattovaara)
 * [CorCoDial project](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), University of Helsinki 2021-  
 PI [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/)
 * [Kippo project](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020), Tampere University 2017-2021  
