@@ -5,7 +5,7 @@ lang: fi
 i18n-link: murteet
 ---
 
-<img src="../assets/images/murrealueet.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/murrealueet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 Tämä sivu sisältää karttoja suomen murrealueista sekä murrepiirteiden levikkikarttoja.
 * Kaikkien karttojen pohjana on käytetty Kotimaisten kielten keskuksen Suomen murteiden sanakirjan karttapohjaa, ja kartat on tehty vapaasti saatavilla olevalla QGIS-ohjelmistolla.
@@ -23,31 +23,31 @@ Lisenssi: CC-BY 4.0. Tekijä Olli Kuparinen.
 
 ## Peräpohjolan murteet
 
-<img src="../assets/images/perapohjola.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/perapohjola.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Keski- ja Pohjois-Pohjanmaan murteet
 
-<img src="../assets/images/keski-ja-pohjoispohjanmaa.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/keski-ja-pohjoispohjanmaa.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Etelä-Pohjanmaan murre
 
-<img src="../assets/images/etelapohjanmaa.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/etelapohjanmaa.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Hämäläismurteet
 
-<img src="../assets/images/hamalaismurteet.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/hamalaismurteet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Lounaismurteet ja lounaiset välimurteet
 
-<img src="../assets/images/lounaismurteet.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/lounaismurteet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Savolaismurteet
 
-<img src="../assets/images/savolaismurteet.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/savolaismurteet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Kaakkoismurteet
 
-<img src="../assets/images/kaakkoismurteet.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/kaakkoismurteet.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 # Levikkikartat
 
@@ -57,37 +57,37 @@ Geminaatiolla tarkoitetaan konsonanttien kahdentumista. Suomen murteissa esiinty
 * Itämurteiden erikoisgeminaatiossa konsonantti kahdentuu aina pitkän vokaaliaineksen edellä (esim. syömmään ruokkaa). Itämurteiden erikoisgeminaatio sisältää siis myös yleisgeminaation.
 * Lounaismurteiden erikoisgeminaatiossa k, p, t ja s kahdentuvat soinnillisen äänteen jäljessä ja pitkän (mutta sittemmin lyhentyneen) vokaaliaineksen edellä (esim. kulkke vapautte).
 
-<img src="../assets/images/geminaatiot.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/geminaatiot.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Diftongien avartuminen
 Diftongit ie, uo ja yö avartuvat kartalla kuvatulla alueella (eli ovat ennemminkin ia/iä, ua, yä).
 
-<img src="../assets/images/avartuminen.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/avartuminen.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Vokaaliyhtymät iA, UA
 Suomen murteissa vokaaliyhtymät OA ja eA oikenevat laajalti (palloa > palloo, korkea > korkee). Vokaaliyhtymät iA ja UA oikenevat (kahvii, kakkuu) pienemmällä alueella, joka on kuvattu kartassa.
 
-<img src="../assets/images/iiuu.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/iiuu.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Persoonapronominit mie ja myö
 Yksikön ensimmäisen persoonan pronomini mie ja monikon ensimmäisen persoonan pronomini myö esintyvät osittain yhdessä ja osittain erillään. Näiden pronominien levikki on kuvattu kartassa.
 
-<img src="../assets/images/miemyo.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/miemyo.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Diftongiutuminen
 Diftongiutumisella tarkoitetaan prosessia, jossa pitkästä vokaalista kehittyy diftongi (esim. siis maa > mua, pää > peä). Diftongiutumisen levikki ja diftongin laatu on kuvattu kartassa.
 
-<img src="../assets/images/muapea.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/muapea.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Liudennus
 Liudennuksella tarkoitetaan konsonanttien ääntämyksen j-mäistä sävyä (esim. vesi ääntyy ennemminkin vesj).
 
-<img src="../assets/images/liudennus.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/liudennus.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 ## Loi-monikko
 Esim. kukkoja > kukkoloi, kukkoloeta
 
-<img src="../assets/images/kukkoloi.png" alt="Photo" hspace="20" width="100%" align="center"/>
+<img src="../assets/images/kukkoloi.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
 # Lähteet:
 
