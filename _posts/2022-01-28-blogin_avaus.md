@@ -2,7 +2,7 @@
 layout: post
 author: Olli
 title: Blogin avaus
-i18n-link: blog/blogin_avaus
+i18n-link: murrematkat/blogin_avaus
 lang: fi
 ---
 Hei ja tervetuloa seuraamaan blogiani!
