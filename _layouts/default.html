@@ -31,6 +31,7 @@
 	  <a class="sitelinks" href="cv.html">{{ site.data.translations['cv-page'][page.lang] }}</a> 
 	  <a class="sitelinks" href="publications.html">{{ site.data.translations['publications'][page.lang] }}</a> 
           <a class="sitelinks" href="murteet.html">{{ site.data.translations['murteet'][page.lang] }}</a> 
+          <a class="sitelinks" href="murrematkat.html">{{ site.data.translations['murrematkat'][page.lang] }}</a>
 	</div>
         {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
         {% if posts.size == 0 %}
