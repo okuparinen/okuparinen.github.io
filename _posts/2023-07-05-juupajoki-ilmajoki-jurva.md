@@ -25,7 +25,7 @@ Toinen Juupajoen haastattelupaikka oli hyvin lähellä, ja onneksi sinne johtava
 
 <img src="../../../assets/images/juupajoki2.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
-Juupajoki on asukasluvultaan Pirkanmaan pienin kunta (joskin se on myös pinta-alaltaan hyvin pieni eli sen asukastiheys on kuitenkin suurempi kuin esimerkiksi Virroilla). Murteellisesti se kuuluu hämäläismurteisiin ja Sydän-Hämeen murreryhmään, josta olen kirjoittanut jo [aiemmin](http://okuparinen.github.io/fi/2022/08/25/urjala-palkane.html). Se sijaitsee alueen koillislaidalla, melko lähellä perinteistä länsi- ja itämurteiden rajaa.
+Juupajoki on asukasluvultaan Pirkanmaan pienin kunta (joskin se on myös pinta-alaltaan hyvin pieni eli sen asukastiheys on kuitenkin suurempi kuin esimerkiksi Virroilla). Murteellisesti se kuuluu hämäläismurteisiin ja Sydän-Hämeen murreryhmään, josta olen kirjoittanut jo [aiemmin](http://okuparinen.github.io/2022/08/25/urjala-palkane.html). Se sijaitsee alueen koillislaidalla, melko lähellä perinteistä länsi- ja itämurteiden rajaa.
 
 <img src="../../../assets/images/kuraa-juupajoki.jpg" alt="Photo" hspace="20" width="80%" align="center"/>
 
@@ -131,7 +131,7 @@ Parkanosta reittivaihtoehdot olivat joko kolmostien laitaa Ikaalisiin (hyi), sor
 
 <img src="../../../assets/images/parkano-ikaalinen.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
-Päädyin Kyrösjärven pohjoispuolelle Ikaalisiin eli hyvin lähelle [edellisen murrematkan](http://okuparinen.github.io/fi/2023/06/19/ikaalinen.html) haastattelupaikkoja. Poikkesin huvin vuoksi uudelleen Kallionkielen kylässä, koska se sijaitsee niin lähellä isompaa Luhalahdentietä. Pysähdyin myös samaiseen kyläpuotiin, jossa vierailin myös Ikaalisten murrematkalla. Hyvin toimi tälläkin kertaa!
+Päädyin Kyrösjärven pohjoispuolelle Ikaalisiin eli hyvin lähelle [edellisen murrematkan](http://okuparinen.github.io/2023/06/19/ikaalinen.html) haastattelupaikkoja. Poikkesin huvin vuoksi uudelleen Kallionkielen kylässä, koska se sijaitsee niin lähellä isompaa Luhalahdentietä. Pysähdyin myös samaiseen kyläpuotiin, jossa vierailin myös Ikaalisten murrematkalla. Hyvin toimi tälläkin kertaa!
 
 <img src="../../../assets/images/kallionkieli-revisit.png" alt="Photo" hspace="20" width="80%" align="center"/>
 

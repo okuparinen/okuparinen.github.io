@@ -28,7 +28,7 @@ Hulppojärven puhujan haastattelu on kovaa kamaa: siinä käsitellään esimerki
 
 ### Ylä-Satakunnan murteesta ja Ikaalisista
 
-Ylä-Satakunnan murreryhmä kuuluu hämäläismurteisiin, josta kirjoitin myös [edellisessä osassa](http://okuparinen.github.io/fi/2022/08/25/urjala-palkane.html). Näin ollen murre on pääpiirteiltään samanlaista kuin tuossa osassa käsitellyssä Sydän-Hämeessä.
+Ylä-Satakunnan murreryhmä kuuluu hämäläismurteisiin, josta kirjoitin myös [edellisessä osassa](http://okuparinen.github.io/2022/08/25/urjala-palkane.html). Näin ollen murre on pääpiirteiltään samanlaista kuin tuossa osassa käsitellyssä Sydän-Hämeessä.
 Tavallisia piirteitä ovat esimerkiksi diftongien avartuminen (*nuari tyämiäs*) ja *l* yleiskielen *d*:n vastineena (*lähletään* 'lähdetään').
 
 Ylä-Satakunnan murteen tunnistettavin piirre on ollut pitkän *aa*:n ja *ää*:n ummistuminen *oo*:ksi ja *ee*:ksi: *moo* 'maa', *pee*, 'pää', *Kankoonpee* 'Kankaanpää'. Myös esimerkiksi *s* voi soinnillisen äänteen edellä muuttua *h*:ksi: *kirvehmiäs*.
