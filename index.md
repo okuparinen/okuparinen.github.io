@@ -34,7 +34,7 @@ PI [Unni Leino](https://www.tuni.fi/fi/unni-leino)
 
 ## Find me:
 
-* [Twitter](https://twitter.com/KuparinenOlli)
+* [Mastodon](https://mastodontti.fi/@kuparinen)
 * [LinkedIn](https://fi.linkedin.com/in/olli-kuparinen)
 * [GitHub](https://github.com/okuparinen) 
 
