@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Turuust kotti | Lieto, Alastaro
+title: Turust kotti | Lieto, Alastaro
 i18n-link: murrematkat/lieto-alastaro
 lang: fi
 ---
@@ -50,7 +50,7 @@ Lieto kuuluu Turun ylämaan murteisiin, jotka luovat kiilan varsinaisten lounais
 Tavallisia läntisiä ilmiöitä murteessa ovat diftongien avartuminen (*nuar tyämiäs*), *r* yleiskielen *d*:n vastineena (*tahro* 'tahdo') ja *tt* yleiskielen *ts*:n vastineena (*mettä*). 
 
 Lounaisia ilmiöitä murteessa ovat lounaismurteiden erikoisgeminaatio (*kotti* 'kotiin', *mittä* 'mitään) sekä näissäkin esimerkeissä näkyvä pitkien vokaalien lyheneminen ensi tavun jälkeen. 
-Vastaavasti ensimmäisen tavun lyhyt vokaali voi tietyin ehdoin olla puolipitkä (*Turuust*). Lisäksi on jonkin verran diftongien reduktiota (*koera* 'koira) ja loppu- sekä sisäheittoa (*jäi otmat* 'jäi ottamatta').
+Vastaavasti ensimmäisen tavun lyhyt vokaali voi tietyin ehdoin olla puolipitkä (*Turùst*). Lisäksi on jonkin verran diftongien reduktiota (*koera* 'koira) ja loppu- sekä sisäheittoa (*jäi otmat* 'jäi ottamatta').
 
 <img src="../../../assets/images/alastaro-sora.png" alt="Photo" hspace="20" width="80%" align="center"/>
 
