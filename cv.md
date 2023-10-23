@@ -7,7 +7,10 @@ title: CV
 
 ## Positions
 
-> **Postdoctoral researcher** in Language Technology (University of Helsinki) 2021-  
+> **Postdoctoral researcher** in Finnish language (Tampere University) 2023-
+> * Research on language and dialect attitudes among young people in Finland *
+
+> **Postdoctoral researcher** in Language Technology (University of Helsinki) 2021-2023  
 > * Research on computational dialectology in Finnish, Norwegian and Swiss German
 
 > **Doctoral researcher** in Finnish language (Tampere University) 2017-2021  
