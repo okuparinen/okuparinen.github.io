@@ -21,7 +21,7 @@ Väittelin tohtoriksi Tampereen yliopistosta suomen kielen oppiaineesta kesäll�
 
 * [Arkisuomet](https://research.tuni.fi/arkisuomet/), Tampereen yliopisto 2023-  
 PI [Johanna Vaattovaara](https://www.tuni.fi/en/johanna-vaattovaara)
-* [CorCoDial](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), Helsingin yliopisto 2021-2023
+* [CorCoDial](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), Helsingin yliopisto 2021-2023  
 PI [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/)
 * [Kippo](https://www.tuni.fi/fi/tutkimus/kielellisten-populaatioiden-muutos-ajassa-kippo-2017-2020), Tampereen yliopisto 2017-2021  
 PI [Unni Leino](https://www.tuni.fi/fi/unni-leino)
