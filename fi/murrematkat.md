@@ -20,3 +20,5 @@ Aineistosta lisää [Kotimaisten kielten keskuksen sivuilla](https://www.kotus.f
     </li>
   {% endfor %}
 </ul>
+
+<a class="sitelinks" href="/feed.xml">RSS-feed</a>
