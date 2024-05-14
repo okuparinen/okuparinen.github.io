@@ -7,7 +7,10 @@ i18n-link: cv
 
 ## Tutkijapaikat
 
-> **Tutkijatohtori**, kieliteknologia, Helsingin yliopisto, 2021-  
+> **Apurahatutkija**, suomen kieli, (Tampereen yliopisto) 2023-
+> * Suomalaisten nuorten kieli- ja murreasenteiden valtakunnallinen tutkimus *
+
+> **Tutkijatohtori**, kieliteknologia, Helsingin yliopisto, 2021-2023
 > * Suomen, sveitsinsaksan ja norjan murteiden laskennallinen mallintaminen
 
 > **Väitöskirjatutkija**, suomen kieli, Tampereen yliopisto, 2017-2021  
