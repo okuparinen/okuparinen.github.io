@@ -11,6 +11,7 @@ Following the [Academy of Finland guidelines](https://www.aka.fi/en/research-fun
 
 ## A. Peer-reviewed scientific articles (in descending chronological order)
 * Kuparinen, Olli & Yves Scherrer. 2024. Corpus-based dialectometry with topic models. Journal of Linguistic Geography. (accepted).
+* Kuparinen, Olli. 2024. Murre24: Dialect Identification of Finnish Internet Forum Messages. In LREC-Proceedings. (accepted).
 * Kuparinen, Olli – Miletić, Aleksandra – Scherrer, Yves. 2023. Dialect-to-Standard Normalization: A Large-Scale Multilingual Evaluation. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.findings-emnlp.923/)
 * Scherrer, Yves – Miletić, Aleksandra – Kuparinen, Olli. 2023. The Helsinki-NLP Submissions at NADI 2023 Shared Task: Walking the Baseline. In Proceedings of ArabicNLP 2023, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.arabicnlp-1.73/)
 * Kuparinen, Olli & Yves Scherrer. 2023. Dialect Representation Learning with Neural Dialect-to-Standard Normalization. In Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023), 200–212, Dubrovnik, Croatia. Association for Computational Linguistics. [link](https://aclanthology.org/2023.vardial-1.20)

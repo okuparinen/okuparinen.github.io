@@ -36,6 +36,5 @@ PI [Unni Leino](https://www.tuni.fi/fi/unni-leino)
 ## Find me:
 
 * [Mastodon](https://mastodontti.fi/@kuparinen)
-* [LinkedIn](https://fi.linkedin.com/in/olli-kuparinen)
-* [GitHub](https://github.com/okuparinen) 
+* [Bluesky](https://bsky.app/profile/kuparinen.bsky.social)
 
