@@ -10,8 +10,8 @@ description: Website of Olli Kuparinen to share professional and unprofessional 
 Following the [Academy of Finland guidelines](https://www.aka.fi/en/research-funding/apply-for-funding/how-to-apply-for-funding/az-index-of-application-guidelines2/list-of-publications/)
 
 ## A. Peer-reviewed scientific articles (in descending chronological order)
-* Kuparinen, Olli & Yves Scherrer. 2024. Corpus-based dialectometry with topic models. Journal of Linguistic Geography. (accepted).
-* Kuparinen, Olli. 2024. Murre24: Dialect Identification of Finnish Internet Forum Messages. In LREC-Proceedings. (accepted).
+* Kuparinen, Olli & Yves Scherrer. 2024. Corpus-Based Dialectometry with Topic Models. Journal of Linguistic Geography: 1–12. doi: 10.1017/jlg.2024.6. [link](https://doi.org/10.1017/jlg.2024.6)
+* Kuparinen, Olli. 2024. Murre24: Dialect Identification of Finnish Internet Forum Messages. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 12003–12015, Torino, Italy. ELRA and ICCL. [link](https://aclanthology.org/2024.lrec-main.1048)
 * Kuparinen, Olli – Miletić, Aleksandra – Scherrer, Yves. 2023. Dialect-to-Standard Normalization: A Large-Scale Multilingual Evaluation. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.findings-emnlp.923/)
 * Scherrer, Yves – Miletić, Aleksandra – Kuparinen, Olli. 2023. The Helsinki-NLP Submissions at NADI 2023 Shared Task: Walking the Baseline. In Proceedings of ArabicNLP 2023, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.arabicnlp-1.73/)
 * Kuparinen, Olli & Yves Scherrer. 2023. Dialect Representation Learning with Neural Dialect-to-Standard Normalization. In Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023), 200–212, Dubrovnik, Croatia. Association for Computational Linguistics. [link](https://aclanthology.org/2023.vardial-1.20)
