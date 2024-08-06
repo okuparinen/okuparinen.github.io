@@ -6,8 +6,10 @@ title: CV
 ---
 
 ## Positions
+> **Academy Research Fellow** in linguistics, Tampere University 2024-
+> * Automatic speech recognition and acoustic modeling in variational linguistics
 
-> **Postdoctoral researcher** in Finnish language (Tampere University) 2023-
+> **Postdoctoral researcher** in Finnish language, Tampere University 2023-
 > * Research on language and dialect attitudes among young people in Finland
 
 > **Postdoctoral researcher** in Language Technology (University of Helsinki) 2021-2023  

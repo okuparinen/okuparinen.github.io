@@ -5,3 +5,5 @@ gem 'jekyll-seo'
 gem "kramdown-parser-gfm"
 gem "webrick"
 gemspec
+
+gem "jekyll-feed", "~> 0.17.0"

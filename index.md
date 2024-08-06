@@ -8,7 +8,7 @@ title: Olli
 
 ## Introduction
 
-I work currently as a postdoctoral researcher in Finnish language at Tampere University.
+I work currently as a postdoctoral researcher in Finnish language at Tampere University. I will start an Academy Research Fellowship in September 2024.
 I was a postdoctoral researcher in [Language Technology](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki.  
 I defended my [PhD thesis](http://urn.fi/URN:ISBN:978-952-03-1990-8) in Finnish language in June 2021.
 
@@ -21,6 +21,8 @@ I visited KU Leuven from 5 Sep to 2 Dec 2022.
 
 ## Projects
 
+* [Speech as Speech](https://research.fi/en/results/funding/81468), Tampere University 2024-  
+Academy Research Fellowship by the Research Council of Finland
 * [LANGAWARE](https://research.tuni.fi/arkisuomet/en/), Tampere University 2023-  
 PI [Johanna Vaattovaara](https://www.tuni.fi/en/johanna-vaattovaara)
 * [CorCoDial project](https://researchportal.helsinki.fi/fi/projects/corpus-based-computational-dialectology-exploiting-machine-transl), University of Helsinki 2021-2023  
