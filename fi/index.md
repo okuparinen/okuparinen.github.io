@@ -8,8 +8,8 @@ i18n-link: index
 
 ## Kuka?
 
-Työskentelen tällä hetkellä apurahatutkijana suomen kielen oppiaineessa Tampereen yliopistossa. Aloitan akatemiatutkijana syyskuussa 2024.
-Olin tutkijatohtorina Helsingin yliopiston [kieliteknologian](https://blogs.helsinki.fi/language-technology/) oppiaineessa.  
+Työskentelen tällä hetkellä (syyskuusta 2024 alkaen) akatemiatutkijana Tampereen yliopiston kielten yksikössä.
+Ennen nykyistä tehtävää työskentelin apurahatutkijana suomen kielen oppiaineessa Tampereen yliopistossa ja tutkijatohtorina Helsingin yliopiston [kieliteknologian](https://blogs.helsinki.fi/language-technology/) oppiaineessa.  
 Väittelin tohtoriksi Tampereen yliopistosta suomen kielen oppiaineesta kesällä 2021. [Väitöskirja](http://urn.fi/URN:ISBN:978-952-03-1990-8).
 
 ## Tutkimuskohteet
