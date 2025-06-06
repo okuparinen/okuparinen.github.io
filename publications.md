@@ -10,6 +10,8 @@ description: Website of Olli Kuparinen to share professional and unprofessional 
 Following the [Academy of Finland guidelines](https://www.aka.fi/en/research-funding/apply-for-funding/how-to-apply-for-funding/az-index-of-application-guidelines2/list-of-publications/)
 
 ## A. Peer-reviewed scientific articles (in descending chronological order)
+* Kuparinen, Olli & Vaattovaara, Johanna. 2025. Murteesta ja identiteetistä 2020-luvulla. Piirrelähtöiseen itseraportointimenetelmään perustuva kyselytutkimuksen analyysi. In Virittäjä 129 (1). pp. 63–90. [doi](https://doi.org/10.23982/vir.148345)
+* Scherrer, Yves & Kuparinen, Olli. 2025. Interactive maps for corpus-based dialectology. Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025). [link](https://hdl.handle.net/10062/107257)
 * Kuparinen, Olli & Yves Scherrer. 2024. Corpus-Based Dialectometry with Topic Models. Journal of Linguistic Geography: 1–12. doi: 10.1017/jlg.2024.6. [link](https://doi.org/10.1017/jlg.2024.6)
 * Kuparinen, Olli. 2024. Murre24: Dialect Identification of Finnish Internet Forum Messages. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 12003–12015, Torino, Italy. ELRA and ICCL. [link](https://aclanthology.org/2024.lrec-main.1048)
 * Kuparinen, Olli – Miletić, Aleksandra – Scherrer, Yves. 2023. Dialect-to-Standard Normalization: A Large-Scale Multilingual Evaluation. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.findings-emnlp.923/)
