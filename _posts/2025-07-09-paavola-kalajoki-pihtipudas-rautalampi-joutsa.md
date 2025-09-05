@@ -14,22 +14,22 @@ Olin suunnitellut matkan alkavan illalla ja ajaa jotakuinkin ensimmäisen yön l
 
 Matkustin junalla Ruukkiin eli suoraan ensimmäisen murrepitäjän, Paavolan, keskukseen. Nykyään Paavola (ja Ruukki) ovat osa Siikajoen liitoskuntaa. Ruukista lähdin ajelemaan kohti etelää noin kymmenen aikaan illalla. Ensimmäinen haastattelupaikka tuli vastaan melko pian seututie 86:n varrella.
 
-<img src="../../../assets/images/paavola1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/paavola1.jpg" alt="Olli Paavolan ensimmäisellä haastattelupaikalla" hspace="20" width="80%" align="center"/>
 
 Seututieltä käännyin hetken päästä mukavalle soratielle, joka vei kohti seuraavaa haastattelupaikkaa. Tämä haastattelupaikka oli pienessä kylässä. Alkumatkasta fiilis oli korkealla ja ajoin näin pitkälle matkalle hieman liian lujaa. Ei malta ikinä ajaa rauhassa.
 
-<img src="../../../assets/images/paavola2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/paavola2.jpg" alt="Paavolan toinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Sää oli oikein miellyttävä ja heinäkuun ilta Pohjois-Pohjanmaalla valoisa. Ajelin hiljaisia teitä Haapavedelle ja sieltä käännyin takaisin kohti länsirannikkoa. Ennen Oulaisia oikaisin muutamaksi tunniksi bivypussiin tien levikkeelle. Muuten hyvä, mutta samalla hetkellä, kun menin nukkumaan (noin kello kahdelta) viereiselle pellolle tuli traktori peltotöihin ja jatkoi niitä siihen asti kun jatkoin matkaa (joskus viideltä). En tiedä, miksi työt piti tehdä juuri tuohon aikaan, mutta se aiheutti pientä häiriötä. Paikka ei ollut myöskään mikään pehmein nukkumista ajatellen.
 
-<img src="../../../assets/images/paavola-bivy1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/paavola-bivy1.jpg" alt="Bivypaikka Haapavedellä" hspace="20" width="80%" align="center"/>
 
 ### Koukkaus Kalajoella
 Pitkien ja maittavien unien jälkeen jatkoin matkaa kohti Kalajokea, joka oli toinen tämän matkan murrepitäjistä. Aamu oli aika verkkainen ja maisemien puolesta jopa tylsä: samanlaisia tasaisia peltoteitä koko matkalta. Kalajoella pysähdyin aamupalalle huoltoasemalle ja poimin talteen murrepaikat, joista molemmat olivat keskustan tuntumassa. Toinen paikoista oli Kalajoen (sen itse joen) pohjoispuolella ja toinen eteläpuolella. Tämän jälkeen käännyin takaisin sisämaahan ja vastatuuleen.
 
-<img src="../../../assets/images/kalajoki1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/kalajoki1.jpg" alt="Kalajoen ensimmäinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
-<img src="../../../assets/images/kalajoki2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/kalajoki2.jpg" alt="Kalajoen toinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Sieviin asti maisemat olivat aika samanlaisia, mutta Sievistä eteenpäin Reisjärvelle alkoi jo ilmestyä vähän mäkiä. Sievin ja Reisjärven välillä oli muuten hämmentävä seututie (eli kolminumeroinen tie), jolla oli sadan kilometrin nopeusrajoitus. Tien profiili ei kyllä antanut tähän minkäänlaisia edellytyksiä, vaan tie oli kumpuileva ja mutkainen. En tiedä, miten tällaiseen päätökseen oli päädytty, mutta pyöräilijänä tie tuntui melko turvattomalta. Reisjärvellä pidin pikku jäätelöpaussin ja jatkoin matkaa kohti Keski-Suomea. Tähän väliin siis Keski- ja Pohjois-Pohjanmaan murteiden katsaus.
 
@@ -45,19 +45,19 @@ Muita tunnistettavia piirteitä ovat voimakas svaavokaali (*lehemä*, *kylymä*)
 
 Matka jatkui Keski-Pohjanmaalta Keski-Suomeen, joten tiedossa oli enemmän mäkiä. Pihtiputaan ensimmäinen haastattelupaikka oli hienolla harjulla, jota pitkin oli juhlallista pyöräillä. Ehkä tähän vaikutti sekin, että tiesin meneväni käynnin jälkeen syömään pizzaa.
 
-<img src="../../../assets/images/pihtipudas1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/pihtipudas1.jpg" alt="Pihtiputaan ensimmäinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Pikaisen ruokailun jälkeen matka jatkui toiselle haastattelupaikalle, joka oli Pihtiputaalta Keiteleelle vievän soratien varrella. Tie talolle näytti kutsuvalta, mutta jätin kuitenkin punkit keräämättä.
 
-<img src="../../../assets/images/pihtipudas2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/pihtipudas2.jpg" alt="Pihtiputaan toinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Keiteleelle vievä soratie oli ihana niin pinnaltaan kuin korkeuseroiltaankin. Tuntui mukavalta, että maisemassa tapahtui jotakin eikä kaikki ollut vain tasaista peltoa. Keitele oli myös matkan ensimmäinen kohde Pohjois-Savossa. Muutama muukin kunta mahtui reitille Savosta, kunnes palasin taas Keski-Suomen puolelle.
 
-<img src="../../../assets/images/keitele.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/keitele.jpg" alt="Soratie Keiteleellä" hspace="20" width="80%" align="center"/>
 
 Keiteleellä pysähdyin vielä iltakaupassa ennen kuin jatkoin matkaa Vesantoon. Juuri ennen Vesantoa maantiellä oli kyllä aivan julmettu mäki, jonka päälle piti kiivetä. Sieltä sitten lasketeltiin alas Vesannon metropoliin. Olin katsonut etukäteen, että jonkin tanssilavan läheisyydessä olisi vanha hylätty parkkipaikka, jossa voisi olla hyvä makoilla bivy-pussissa. Tämä osoittautui todeksi ja sinne nukkumaan makoisat unet. Ensimmäisen "päivän" saldoksi tuli 400 kilometriä.
 
-<img src="../../../assets/images/paavola-bivy2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/paavola-bivy2.jpg" alt="Toisen yön bivypaikka" hspace="20" width="80%" align="center"/>
 
 ### Rautalammilta Hankasalmelle
 Aamulla kiipesin mäen ylös ja menin aamupalalle huoltoasemalle. Asema oli jälleen hieno vanhan liiton paikka, jossa aika tuntui pysähtyneen 90-luvulle. Sämpylää ja pullaa sai kuitenkin.
@@ -66,15 +66,15 @@ Asemalle kiivetessä huomasin, että vasen polvi on aika kipeä. Päätin nostaa
 
 Aamupalan jälkeen jatkoin matkaa Rautalammille, jossa odottivat matkan seuraavat murrepaikat. Matkalla oli hieno Kerkonkosken kylä, jossa oli myös kyläkauppa. Minulla ei oikeastaan ollut tarvetta pysähdykselle, mutta paikka näytti niin hauskalta, että pysähdyinpä kuitenkin.
 
-<img src="../../../assets/images/kerkonkoski.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/kerkonkoski.jpg" alt="Polkupyörä Kerkonkosken kaupan edessä" hspace="20" width="80%" align="center"/>
 
 Ensimmäinen haastattelupaikka tuli vastaan hieman Kerkonkosken jälkeen. Tämä oli selvästi asuttu talo, joten kuvat jääkööt omaan pärstään.
 
-<img src="../../../assets/images/rautalampi1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/rautalampi1.jpg" alt="Rautalammin ensimmäinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Ensimmäisen ja toisen haastattelupaikan välille olin reitittänyt lyhyen oikoreitin hiekkatielle. Yleensä soratiet ovat ihan hyviä ajettavia, mutta tämä oli kyllä aika kamalaa kivenmurikkaa. Onneksi ei kestänyt kauaa. Toinen haastattelupaikka oli myös edelleen asutettu. Tästä jatkoin isomman kantatien vartta Konnevedelle ja sieltä edelleen Hankasalmelle. 
 
-<img src="../../../assets/images/rautalampi2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/rautalampi2.jpg" alt="Rautalammin toinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Hankasalmelle saapuessa katsoin, että ukkosrintama tulee kohtapuoliin vastaan, joten päätin pysähtyä lounaalle. No, ehdin syödä rauhassa, eikä sade ollut vieläkään alkanut. Hain vähän lisää ruokaa buffetista, eikä sade ollut vieläkään alkanut. Otin kahvia, eikä sade ollut vieläkään alkanut. Katsoin säätutkasta, että se taitaakin mennä vähän ohi ja olin lähdössä jatkamaan matkaa. Vähemmän yllättäen kaatosade alkoi silloin. Ei tosin kestänyt kauaa, ja ukkosta ei tullut lainkaan, mutta vähän kului aikaa odotellessa.
 
@@ -82,15 +82,15 @@ Hankasalmelle saapuessa katsoin, että ukkosrintama tulee kohtapuoliin vastaan, 
 
 Hankasalmelta valuin hiljalleen Lievestuoreen kautta Leivonmäelle. Leivonmäellä oli mukavia maisemia etenkin kansallispuiston yhteydessä.
 
-<img src="../../../assets/images/leivonmäki.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/leivonmäki.jpg" alt="Maisema Leivonmäellä" hspace="20" width="80%" align="center"/>
 
 Joutsan murrepaikoista ensimmäinen tuli vastaan ennen keskustaa. Tämäkin oli asuttu talo aika vilkkaankin tien varressa. Yllättävän moni haastattelupaikoista tuntuu edelleen olevan ihan voimissaan, mikä on mukava huomata.
 
-<img src="../../../assets/images/joutsa1.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/joutsa1.jpg" alt="Joutsan ensimmäinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
 Joutsan keskustassa pysähdyin syömään ja täyttämään pulloja. Tiedossa oli, että ajo tulisi jatkumaan yli puolenyön, kun ukkosta odotellessa oli valunut aikaa hukkaan. Keskustasta matka jatkui kohti Pertunmaata. Tämä olikin vallan ihana tie ja matkan varrella oli myös Joutsan toinen haastattelupaikka, johon osuin auringonlaskun aikaan.
 
-<img src="../../../assets/images/joutsa2.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/joutsa2.jpg" alt="Olli Joutsan toisella haastattelupaikalla" hspace="20" width="80%" align="center"/>
 
 Saman tien varrella näin myös pari hirveä. Ihmisiä (eli tässä tapauksessa autonkuljettajia) ei näkynyt juuri enempää. Tein vielä pikapysähdyksen Kuortin ABC:lla, josta jatkoin matkaa kohti Heinolaa. Tähän väliin kuitenkin Keski-Suomen ja Päijät-Hämeen savolaismurteista (kyllä, luit oikein).
 
@@ -108,13 +108,13 @@ Heinolaan ajamisessa oli tiettyä aavemaisuutta, kun ajoin pääasiassa vanhaa V
 
 Heinolassa olikin perjantai-iltana kova meininki, ja näin useamman poliisiauton. Yöksi ajoin Vierumäen Matkakeitaan taakse puskaan nukkumaan. Hyttysiä oli ns. paljon. Matkaa tälle päivälle 309 kilometriä.
 
-<img src="../../../assets/images/pertunmaa.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/pertunmaa.jpg" alt="Kumpuileva tie auringonlaskussa" hspace="20" width="80%" align="center"/>
 
 Aamulla kömmin pois puskasta hyttyset perässäni ja menin aamupalalle Matkakeitaalle. Kyllä maistui! Vähän kehonhuoltoa samassa ja taas tien päälle.
 
 Ajoin viimevuotisen majapaikan ohi Vesivehmaalla ja siitä edelleen Vääksyn kanavan kautta kohti Lammia. Asikkalan ja Lammin välillä olikin oikein mukava kumpuileva tie. Tämä oli kesän hellepäiväputken ensimmäisiä päiviä, joten kuuma tuli kyllä peltoaukeilla. Muuten matkan säät olivat erinomaiset: ei liian kuuma, mutta ei sadettakaan.
 
-<img src="../../../assets/images/paluu-paavola.jpg" alt="" hspace="20" width="80%" align="center"/>
+<img src="../../../assets/images/paluu-paavola.jpg" alt="Olli aurinkoisessa säässä" hspace="20" width="80%" align="center"/>
 
 Lammilta matka jatkui edelleen Janakkalaan ja Hämeenlinnaan. Hämeenlinnassa pysähdyin kaupassa _ja_ pizzalla, koska aikaa oli hyvin.
 
@@ -127,6 +127,6 @@ Tämä oli tähänastisista retkistä pisin ja eräänlainen testi siitä, mihin
 ___
 Suomen kielen näytteitä -sarjan haastattelut ovat kuunneltavissa Kotimaisten kielten keskuksen [sivuilla](https://kotus.fi/sanakirjat/suomen-murteiden-sanakirja/murreaanitteita/suomen-kielen-naytteita-sarja/). \\
 Reitit Stravassa: \\
-[Päivä 1](https://www.strava.com/activities/15075168110). \\
+[Päivä 1](https://www.strava.com/activities/15075168110) \\
 [Päivä 2](https://www.strava.com/activities/15083216411) \\
 [Päivä 3](https://www.strava.com/activities/15091024835)
