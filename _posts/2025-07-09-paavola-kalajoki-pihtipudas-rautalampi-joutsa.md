@@ -68,7 +68,7 @@ Aamupalan jälkeen jatkoin matkaa Rautalammille, jossa odottivat matkan seuraava
 
 <img src="../../../assets/images/kerkonkoski.jpg" alt="Polkupyörä Kerkonkosken kaupan edessä" hspace="20" width="80%" align="center"/>
 
-Ensimmäinen haastattelupaikka tuli vastaan hieman Kerkonkosken jälkeen. Tämä oli selvästi asuttu talo, joten kuvat jääkööt omaan pärstään.
+Ensimmäinen haastattelupaikka tuli vastaan hieman Kerkonkosken jälkeen. Tämä oli selvästi asuttu talo, joten kuva jääköön vähän epämääräiseksi.
 
 <img src="../../../assets/images/rautalampi1.jpg" alt="Rautalammin ensimmäinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
