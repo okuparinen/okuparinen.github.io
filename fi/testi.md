@@ -1,6 +1,6 @@
 ---
 title: Testisivu
-layout: default
+layout: test
 lang: fi
 i18n-link: testisivu
 ---
