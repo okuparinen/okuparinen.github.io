@@ -26,12 +26,10 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
 	<div class="linkbar">
-	  <a class="sitelinks" href="index.html">{{ site.data.translations['homepage'][page.lang] }}</a> 
-	  <a class="sitelinks" href="cv.html">{{ site.data.translations['cv-page'][page.lang] }}</a> 
-	  <a class="sitelinks" href="publications.html">{{ site.data.translations['publications'][page.lang] }}</a> 
-          <a class="sitelinks" href="murteet.html">{{ site.data.translations['murteet'][page.lang] }}</a> 
-          <a class="sitelinks" href="murrematkat.html">{{ site.data.translations['murrematkat'][page.lang] }}</a>
-	</div>
+	  <a class="sitelinks" href="/fi/murrematkat.html">Takaisin blogin etusivulle</a>
+	  <a class="sitelinks" href="/feed.xml">RSS</a>
+        </div> 
+	<h1>{{ page.title }}</h1>
         {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
         {% if posts.size == 0 %}
           {% assign posts=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
@@ -46,6 +44,10 @@
         </div>
         {% endif %}
         {{ content }}
+	    <div class="linkbar">
+	    <a class="sitelinks" href="/fi/murrematkat.html">Takaisin blogin etusivulle</a>
+          <a class="sitelinks" href="/feed.xml">RSS</a>
+        </div> 
       </section>
     </div>
 
