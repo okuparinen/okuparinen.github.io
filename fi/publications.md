@@ -8,6 +8,7 @@ i18n-link: publications
 [Suomen Akatemian mallin](https://www.aka.fi/tutkimusrahoitus/hae-rahoitusta/nain-haet-rahoitusta/ohjehakemisto/julkaisuluettelo/) mukaisesti eriteltynä
 
 ## A. Vertaisarvioidut tieteelliset artikkelit (aikajärjestyksessä uusimmasta vanhimpaan)
+* Kuparinen, Olli. 2025. Automatic Dialectal Transcription: An Evaluation on Finnish and Norwegian. Proc. Interspeech 2025, 2390-2394, [doi](https://doi.org/10.21437/Interspeech.2025-2602) [linkki](https://www.isca-archive.org/interspeech_2025/kuparinen25_interspeech.pdf)
 * Kuparinen, Olli & Vaattovaara, Johanna. 2025. Murteesta ja identiteetistä 2020-luvulla. Piirrelähtöiseen itseraportointimenetelmään perustuva kyselytutkimuksen analyysi. Virittäjä 129 (1). s. 63–90. [doi](https://doi.org/10.23982/vir.148345)
 * Scherrer, Yves & Kuparinen, Olli. 2025. Interactive maps for corpus-based dialectology. Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025). [linkki](https://hdl.handle.net/10062/107257)
 * Kuparinen, Olli & Yves Scherrer. 2024. Corpus-Based Dialectometry with Topic Models. Journal of Linguistic Geography: 1–12. doi: 10.1017/jlg.2024.6. [doi](https://doi.org/10.1017/jlg.2024.6)
