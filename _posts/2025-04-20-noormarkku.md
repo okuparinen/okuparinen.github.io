@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: 280 kilometriä vesisateessa | Noormarkku
+title: 280 kilometriä vesisateessa // Noormarkku
 i18n-link: murrematkat/noormarkku
 lang: fi
 ---
