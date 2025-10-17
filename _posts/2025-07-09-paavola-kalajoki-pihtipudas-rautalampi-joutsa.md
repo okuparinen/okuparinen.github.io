@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Monien maisemien matka | Paavola, Kalajoki, Pihtipudas, Rautalampi, Joutsa
+title: Monien maisemien matka // Paavola, Kalajoki, Pihtipudas, Rautalampi, Joutsa
 i18n-link: murrematkat/paavola-ym
 lang: fi
 ---
