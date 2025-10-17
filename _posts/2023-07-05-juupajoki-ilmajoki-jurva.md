@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Kolmen päivän pyöräretki Etelä-Pohjanmaalla ja Pohjois-Pirkanmaalla | Juupajoki, Ilmajoki, Jurva
+title: Kolmen päivän pyöräretki Etelä-Pohjanmaalla ja Pohjois-Pirkanmaalla // Juupajoki, Ilmajoki, Jurva
 i18n-link: murrematkat/juupajoki-ilmajoki-jurva
 lang: fi
 ---
