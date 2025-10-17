@@ -12,11 +12,11 @@ lang: fi
 ### Junalla Ruukkiin
 Olin suunnitellut matkan alkavan illalla ja ajaa jotakuinkin ensimmäisen yön läpi tai nukkua korkeintaan pikku hetken. Ideana oli suorittaa 400:n, 300:n ja 200:n kilometrin [brevet-matkat](https://www.randonneurs.fi/mita-on-randonneur-pyoraily/) peräkkäisinä päivinä ja 400:n kilometrin aikaraja on sellainen, että kovin pitkiä unia en ehtisi nukkua.
 
-Matkustin junalla Ruukkiin eli suoraan ensimmäisen murrepitäjän, Paavolan, keskukseen. Nykyään Paavola (ja Ruukki) ovat osa Siikajoen liitoskuntaa. Ruukista lähdin ajelemaan kohti etelää noin kymmenen aikaan illalla. Ensimmäinen haastattelupaikka tuli vastaan melko pian seututie 86:n varrella.
+Matkustin junalla Ruukkiin eli suoraan ensimmäisen murrepitäjän, Paavolan, keskukseen. Nykyään Paavola (ja Ruukki) ovat osa Siikajoen liitoskuntaa. Ruukista lähdin ajelemaan kohti etelää noin kymmenen aikaan illalla. Ensimmäinen haastattelupaikka tuli vastaan melko pian kantatie 86:n varrella.
 
 <img src="../../../assets/images/paavola1.jpg" alt="Olli Paavolan ensimmäisellä haastattelupaikalla" hspace="20" width="80%" align="center"/>
 
-Seututieltä käännyin hetken päästä mukavalle soratielle, joka vei kohti seuraavaa haastattelupaikkaa. Tämä haastattelupaikka oli pienessä kylässä. Alkumatkasta fiilis oli korkealla ja ajoin näin pitkälle matkalle hieman liian lujaa. Ei malta ikinä ajaa rauhassa.
+Kantatieltä käännyin hetken päästä mukavalle soratielle, joka vei kohti seuraavaa haastattelupaikkaa. Tämä haastattelupaikka oli pienessä kylässä. Alkumatkasta fiilis oli korkealla ja ajoin näin pitkälle matkalle hieman liian lujaa. Ei malta ikinä ajaa rauhassa.
 
 <img src="../../../assets/images/paavola2.jpg" alt="Paavolan toinen haastattelupaikka" hspace="20" width="80%" align="center"/>
 
