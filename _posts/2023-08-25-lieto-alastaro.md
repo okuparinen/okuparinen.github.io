@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Turust kotti | Lieto, Alastaro
+title: Turust kotti // Lieto, Alastaro
 i18n-link: murrematkat/lieto-alastaro
 lang: fi
 ---
