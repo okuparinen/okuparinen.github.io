@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Mäkisiä sorateitä ja hellettä | Ikaalinen
+title: Mäkisiä sorateitä ja hellettä // Ikaalinen
 i18n-link: murrematkat/ikaalinen
 lang: fi
 ---
