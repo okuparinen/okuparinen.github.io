@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: Huh, Hämeen helteitä | Padasjoki, Hollola, Heinola, Artjärvi, Askola ja Loppi
+title: Huh, Hämeen helteitä // Padasjoki, Hollola, Heinola, Artjärvi, Askola ja Loppi
 i18n-link: murrematkat/padasjoki-hollola-heinola-artjarvi-askola-loppi
 lang: fi
 ---
