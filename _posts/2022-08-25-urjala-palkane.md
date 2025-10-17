@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Olli
-title: 200 kilometriä Sydän-Hämeessä | Urjala ja Pälkäne
+title: 200 kilometriä Sydän-Hämeessä // Urjala ja Pälkäne
 i18n-link: murrematkat/urjala-palkane
 lang: fi
 ---
