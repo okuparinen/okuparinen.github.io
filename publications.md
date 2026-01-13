@@ -10,6 +10,7 @@ description: Website of Olli Kuparinen to share professional and unprofessional 
 Following the [Academy of Finland guidelines](https://www.aka.fi/en/research-funding/apply-for-funding/how-to-apply-for-funding/az-index-of-application-guidelines2/list-of-publications/)
 
 ## A. Peer-reviewed scientific articles (in descending chronological order)
+* Hartikainen, Terhi – Olli Kuparinen – Jenni Santaharju – Jaakko Peltonen – Sini Knuutila – Liisa Mustanoja – Unni Leino. 2025. Kielen syntaktinen variaatio ja muutos Kotiliesi-lehden henkilöhaastatteluissa 1963–2022”. In Sananjalka 67. [doi](https://doi.org/10.30673/sja.144560).
 * Kuparinen, Olli. 2025. Automatic Dialectal Transcription: An Evaluation on Finnish and Norwegian. Proc. Interspeech 2025, 2390-2394, [doi](https://doi.org/10.21437/Interspeech.2025-2602) [link](https://www.isca-archive.org/interspeech_2025/kuparinen25_interspeech.pdf)
 * Kuparinen, Olli & Vaattovaara, Johanna. 2025. Murteesta ja identiteetistä 2020-luvulla. Piirrelähtöiseen itseraportointimenetelmään perustuva kyselytutkimuksen analyysi. In Virittäjä 129 (1). pp. 63–90. [doi](https://doi.org/10.23982/vir.148345)
 * Scherrer, Yves & Kuparinen, Olli. 2025. Interactive maps for corpus-based dialectology. Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025). [link](https://hdl.handle.net/10062/107257)
