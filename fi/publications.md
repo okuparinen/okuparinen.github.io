@@ -8,6 +8,7 @@ i18n-link: publications
 [Suomen Akatemian mallin](https://www.aka.fi/tutkimusrahoitus/hae-rahoitusta/nain-haet-rahoitusta/ohjehakemisto/julkaisuluettelo/) mukaisesti eriteltynä
 
 ## A. Vertaisarvioidut tieteelliset artikkelit (aikajärjestyksessä uusimmasta vanhimpaan)
+* Kuparinen, Olli. 2026. Effects of Speaker Bias in Dialect Identification and Automatic Transcription with Self-Supervised Speech Models. – Proceedings of the 13th Workshop on NLP for Similar Languages, Varieties and Dialects, s. 32–44, Rabat, Morocco. Association for Computational Linguistics. [doi](https://doi.org/10.18653/v1/2026.vardial-1.3)
 * Hartikainen, Terhi – Olli Kuparinen – Jenni Santaharju – Jaakko Peltonen – Sini Knuutila – Liisa Mustanoja – Unni Leino. 2025. Kielen syntaktinen variaatio ja muutos Kotiliesi-lehden henkilöhaastatteluissa 1963–2022. Sananjalka 67. [doi](https://doi.org/10.30673/sja.144560).
 * Kuparinen, Olli. 2025. Automatic Dialectal Transcription: An Evaluation on Finnish and Norwegian. Proc. Interspeech 2025, 2390-2394, [doi](https://doi.org/10.21437/Interspeech.2025-2602) [linkki](https://www.isca-archive.org/interspeech_2025/kuparinen25_interspeech.pdf)
 * Kuparinen, Olli & Vaattovaara, Johanna. 2025. Murteesta ja identiteetistä 2020-luvulla. Piirrelähtöiseen itseraportointimenetelmään perustuva kyselytutkimuksen analyysi. Virittäjä 129 (1). s. 63–90. [doi](https://doi.org/10.23982/vir.148345)
