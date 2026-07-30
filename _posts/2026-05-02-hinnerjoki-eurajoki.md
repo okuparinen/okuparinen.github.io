@@ -43,13 +43,13 @@ Lounaismurteet jaetaan kahtia pohjois- ja itäryhmään ja rajalinja kulkee jota
 
 Lounaismurteet ovat erikoinen tapaus suomen murteiden joukossa. Asutushistoriallisista syistä lounaismurteet ovat käytännössä kaikkien länsimurteiden (hämäläismurteet, Etelä-Pohjanmaan murre, Keski- ja Pohjois-Pohjanmaan murteet, Peräpohjolan murteet) taustalla, mutta silti ne poikkeavat runsaasti muista. Joskus on jopa esitetty, että rakenteellisesti suomen murteet voitaisiin jakaa kahtia niin, että on lounaismurteet ja kaikki muut.
 
+<img src="../../../assets/images/pyörä-puukasa.jpg" alt="Polkupyörä makaa hiekkatiellä, taustalla tukkipinoja" hspace="20" width="80%" align="center"/>
+
 Tunnistettavia piirteitä on paljon, enkä ala niitä kaikkia tässä luettelemaan. Lounaismurteille on ominaista loppuheitto muutenkin kuin sijamuodoissa (esim. *pitk* 'pitkä') sekä sisäheitto painottomissa tavuissa (*tapleva kesknäs* 'tappelevat keskenänsä'). Murteeseen kuuluu myös vokaalien lyheneminen ensi tavua kauempana (*leippä* 'leipää') mutta toisaalta lyhyen painollisen tavun jäljessä lyhyt vokaali pitenee (*talò* 'talo'). Nämä lyhenemiset ja pitenemiset luovat lounaismurteille ominaisen rytmin. Lisäksi ne aiheuttavat joukon yhteenlankeamisongelmia: esimerkiksi muoto *kala* voi tarkoittaa sekä nominatiivia 'kala', genetiiviä 'kalan', partitiivia 'kalaa' tai illatiivia 'kalaan'. Toinen tunnettu ongelmatapaus on tempus: muoto *hän puhu* voi tarkoittaa sekä preesensiä 'hän puhuu' että imperfektiä 'hän puhui'. Tätä yhteenlankeamista korjaamaan on kehittynyt niin sanottu -si-imperfekti *hän puhus*.
 
 Konsonanttien osalta tunnistettavaa on lounaismurteiden erikoisgeminaatio, joka tarkoittaa sitä, että k, p, t ja s kahdentuvat soinnillisen äänteen jäljessä ennen (historiallisesti) pitkää vokaalia: *kotti* 'kotiin', *jokke* 'jokea'. Lisäksi esiintyy puolisoinnillisia klusiileja (k ääntyy g:n suuntaan, t ääntyy d:n suuntaan), joita hyödynnetään esimerkiksi Rauman kaupungin sloganissa *ol niingon gotonas*.
 
 Laajemmin länsimurteisia ilmiöitä ovat yleiskielen ts-yhtymän sijaan käytettävä *tt* vahvassa asteessa ja *t* heikossa asteessa (*mettä* : *metän*), *r* yleiskielen d:n vastineena (*tehrä*) ja diftongien avartuminen (*nuar*).
-
-<img src="../../../assets/images/pyörä-puukasa.jpg" alt="Polkupyörä makaa hiekkatiellä, taustalla tukkipinoja" hspace="20" width="80%" align="center"/>
 
 ### Eurajoelle
 
