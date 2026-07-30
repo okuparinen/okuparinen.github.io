@@ -5,10 +5,10 @@ i18n-link: murrematkat
 title: Murrematkat
 ---
 # Murrematkat
-Kirjoitan tälle sivulle raportteja pyörämatkoistani Suomen kielen näytteitä -murresarjan puhujien kotipaikoille. Murreaineistoon on haastateltu vanhoja puhujia 50:stä suomenkielisestä pitäjästä 1960- ja 70-luvuilla. Sarjan puhujien asuinpaikat on merkitty oheiseen karttaan yhdessä suomen murrealueiden kanssa. Jo vieraillut paikat on merkitty vihreällä.
+Kirjoitan tälle sivulle raportteja pyörämatkoistani Suomen kielen näytteitä -murresarjan puhujien kotipaikoille. Murreaineistoon on haastateltu vanhoja puhujia 50:stä suomenkielisestä pitäjästä 1960- ja 70-luvuilla. Sarjan puhujien asuinpaikat on merkitty oheiseen karttaan yhdessä suomen murrealueiden kanssa. Jo vieraillut paikat on merkitty vihreällä (osa raporteista vielä kirjoittamatta).
 Aineistosta lisää [Kotimaisten kielten keskuksen sivuilla](https://www.kotus.fi/aineistot/puhutun_kielen_aineistot/murreaanitteita/suomen_kielen_naytteita_-sarja).
 
-<img src="../assets/images/murrematkat-heinä25.png" alt="Suomen kielen näytteitä -sarjan haastattelupaikat sekä suomen murrealueet" hspace="20" width="70%" align="center"/>
+<img src="../assets/images/murrematkat-heinä26.png" alt="Suomen kielen näytteitä -sarjan haastattelupaikat sekä suomen murrealueet" hspace="20" width="70%" align="center"/>
 
 ## Viimeisimmät
 
