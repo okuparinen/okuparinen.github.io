@@ -25,11 +25,11 @@ Olin ottanut aikaisen aamulähdön ja olin Huittisissa noin kahdeksan aikaan. En
 
 Säkylässä tajusin myös, että unohdin ottaa aurinkorasvan mukaan. Piti siis etsiä kauppa, joka olikin ärsyttävässä paikassa isomman tien varressa eikä niin sanotusti kylillä. Löytyi kuitenkin niin kauppa kuin aurinkorasvakin.
 
-Kuten todettua, Rantatie Euraan oli oikein upea pätkä. Samoin Euran Kauttuan tehdasalue oli kiinnostavan näköinen. Sen sijaan Kauttualta Hinnerjoelle vievä kantatie 43 (Laitilantie) oli perinteisen ärsyttävä kantatie: autot ajavat kovaa ja piennarta ei ole lainkaan. Sainpa yhden tööttäyksenkin ohittavalta autolta. Näissä aina hämmentää, mihin autoilija kuvittelisi minun menevän kun pyörätietä tai rinnakkaisteitä ei ole olemassa? Ilmeisesti ihan sama, kunhan menen pois tieltä. Tämä pätkä vahvisti jo ennestään vahvaa inhoani kantateitä kohtaan.
+Kuten todettua, Rantatie Euraan oli oikein upea pätkä. Samoin Euran Kauttuan tehdasalue oli kiinnostavan näköinen. Sen sijaan Kauttualta Hinnerjoelle vievä kantatie 43 (Laitilantie) oli perinteisen ärsyttävä kantatie: autot ajavat kovaa ja piennarta ei ole lainkaan. Sainpa yhden tööttäyksenkin ohittavalta autolta. Näissä aina hämmentää, mihin autoilija kuvittelisi minun menevän kun pyörätietä tai rinnakkaisteitä ei ole olemassa? Tämä pätkä vahvisti jo ennestään vahvaa inhoani kantateitä kohtaan.
 
 ### Hinnerjoki
 
-Saavuin Hinnerjoelle (nykyään osa Euraa) kantatien 43 siivittämänä ja pysähdyin kaupalle jäätelötauolle. Ensimmäinen Hinnerjoen haastattelupaikka oli epämääräisesti merkitty vain kirkonkylälle, joten polkaisin kaupalta Hinnerjoen yli tienristeykseen.
+Saavuin Hinnerjoelle (nykyään osa Euraa) kantatien 43 siivittämänä ja pysähdyin kaupalle jäätelötauolle. Ensimmäinen Hinnerjoen haastattelupaikka oli epämääräisesti merkitty vain kirkonkylälle, joten polkaisin kaupalta Hinnerjoen (siis sen joen) yli tienristeykseen.
 
 <img src="../../../assets/images/hinnerjoki-1.jpg" alt="" hspace="20" width="80%" align="center"/>
 
@@ -45,7 +45,7 @@ Lounaismurteet ovat erikoinen tapaus suomen murteiden joukossa. Asutushistoriall
 
 <img src="../../../assets/images/pyörä-puukasa.jpg" alt="Polkupyörä makaa hiekkatiellä, taustalla tukkipinoja" hspace="20" width="80%" align="center"/>
 
-Tunnistettavia piirteitä on paljon, enkä ala niitä kaikkia tässä luettelemaan. Lounaismurteille on ominaista loppuheitto muutenkin kuin sijamuodoissa (esim. *pitk* 'pitkä') sekä sisäheitto painottomissa tavuissa (*tapleva kesknäs* 'tappelevat keskenänsä'). Murteeseen kuuluu myös vokaalien lyheneminen ensi tavua kauempana (*leippä* 'leipää') mutta toisaalta lyhyen painollisen tavun jäljessä lyhyt vokaali pitenee (*talò* 'talo'). Nämä lyhenemiset ja pitenemiset luovat lounaismurteille ominaisen rytmin. Lisäksi ne aiheuttavat joukon yhteenlankeamisongelmia: esimerkiksi muoto *kala* voi tarkoittaa sekä nominatiivia 'kala', genetiiviä 'kalan', partitiivia 'kalaa' tai illatiivia 'kalaan'. Toinen tunnettu ongelmatapaus on tempus: muoto *hän puhu* voi tarkoittaa sekä preesensiä 'hän puhuu' että imperfektiä 'hän puhui'. Tätä yhteenlankeamista korjaamaan on kehittynyt niin sanottu -si-imperfekti *hän puhus*.
+Tunnistettavia piirteitä on paljon, enkä ala niitä kaikkia tässä luettelemaan. Lounaismurteille on ominaista loppuheitto muutenkin kuin sijamuodoissa (esim. *pitk* 'pitkä') sekä sisäheitto painottomissa tavuissa (*tapleva kesknäs* 'tappelevat keskenänsä'). Murteeseen kuuluu myös vokaalien lyheneminen ensi tavua kauempana (*leippä* 'leipää') mutta toisaalta lyhyen painollisen tavun jäljessä lyhyt vokaali pitenee (*talò* 'talo'). Nämä lyhenemiset ja pitenemiset luovat lounaismurteille ominaisen rytmin. Lisäksi ne aiheuttavat joukon yhteenlankeamisongelmia: esimerkiksi muoto *kala* voi tarkoittaa sekä nominatiivia 'kala', genetiiviä 'kalan', partitiivia 'kalaa' tai illatiivia 'kalaan'. Toinen tunnettu ongelmatapaus on aika: muoto *hän puhu* voi tarkoittaa sekä preesensiä 'hän puhuu' että imperfektiä 'hän puhui'. Tätä yhteenlankeamista korjaamaan on kehittynyt niin sanottu -si-imperfekti *hän puhus*.
 
 Konsonanttien osalta tunnistettavaa on lounaismurteiden erikoisgeminaatio, joka tarkoittaa sitä, että k, p, t ja s kahdentuvat soinnillisen äänteen jäljessä ennen (historiallisesti) pitkää vokaalia: *kotti* 'kotiin', *jokke* 'jokea'. Lisäksi esiintyy puolisoinnillisia klusiileja (k ääntyy g:n suuntaan, t ääntyy d:n suuntaan), joita hyödynnetään esimerkiksi Rauman kaupungin sloganissa *ol niingon gotonas*.
 
@@ -53,7 +53,7 @@ Laajemmin länsimurteisia ilmiöitä ovat yleiskielen ts-yhtymän sijaan käytet
 
 ### Eurajoelle
 
-Hinnerjoelta lähdin kohti luodetta ja Eurajoen haastattelupaikkoja. Olin aiemmin ajanut Hinnerjoelta Rauman Lappiin ja edelleen Eurajoelle suorinta tietä, joten taas piti hieman mutkitella pienillä sorateillä, että tulisi uusia nähtävyyksiä. Ajoin Kodiksamin, Naarjoen ja Turajärven kautta kohti Eurajoen Sydänmaan kylää. Matkalle osui pari hauskaa pätkää vanhaa Raumantietä (kasvillisuudesta ja mukulakivipohjasta päätellen kyseessä oli hyvin vanha Raumantie).
+Hinnerjoelta lähdin kohti luodetta ja Eurajoen haastattelupaikkoja. Olin aiemmin ajanut Hinnerjoelta Rauman Lappiin ja edelleen Eurajoelle suorinta tietä, joten taas piti hieman mutkitella pienillä sorateillä, että tulisi uusia nähtävyyksiä. Ajoin Kodiksamin, Naarjoen ja Turajärven kautta kohti Eurajoen Sydänmaan kylää. Matkalle osui pari hauskaa pätkää vanhaa Raumantietä (kasvillisuudesta ja mukulakivipohjasta päätellen kyseessä oli *hyvin* vanha Raumantie).
 
 <img src="../../../assets/images/eurajoki-1.jpg" alt="Olli punaisen talousrakennuksen edessä, päällä sininen villapaita." hspace="20" width="80%" align="center"/>
 
