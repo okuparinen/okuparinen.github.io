@@ -61,9 +61,9 @@ Ajoin Hiidenvaaralta alas toista reittiä ja otin suunnan kohti Joensuuta. Olin 
 
 ### Pohjois-Karjalan murteesta
 
-Pohjois-Karjalan alue kuuluu savolaismurteisiin, joiden alla se muodostaa oman murreryhmänsä. Ryhmää kutsutaan itäisiksi savolaismurteiksi tai vaihtoehtoisesti Pohjois-Karjalan murteiksi. Savolaismurteet on suomen murrealueista suurin ja olen kirjoittanut siitä aiemmin esimerkiksi [Pihtiputaan, Rautalammen ja Joutsan](https://okuparinen.github.io/2025/07/09/paavola-kalajoki-pihtipudas-rautalampi-joutsa.html) yhteydessä.
+Pohjois-Karjalan alue kuuluu savolaismurteisiin, joiden alla se muodostaa oman murreryhmänsä. Ryhmää kutsutaan itäisiksi savolaismurteiksi tai vaihtoehtoisesti Pohjois-Karjalan murteiksi. Savolaismurteet on suomen murrealueista suurin ja olen kirjoittanut niistä aiemmin esimerkiksi [Pihtiputaan, Rautalammen ja Joutsan](https://okuparinen.github.io/2025/07/09/paavola-kalajoki-pihtipudas-rautalampi-joutsa.html) yhteydessä.
 
-Pohjois-Karjalassa esiintyvät monet tavalliset savolaismurteiden piirteet kuten konsonanttien kahdentumisilmiöt yleisgeminaatio (*tullee*, *mennee*) ja itämurteiden erikoisgeminaatio (*ajettaan*, *isomppii*) sekä svaavokaali (*lehemä*, *kylymä*). Lisäksi yleiskielen ts-yhtymän sijaan käytetään vahvassa asteessa savolaismurteille tyypillistä ht-varianttia (*mehtä*). Heikon asteen vastineet kuitenkin vaihtelevat h:n ja t:n välillä (*metän*, *mehän*). 
+Pohjois-Karjalassa esiintyvät monet tavalliset savolaismurteiden piirteet kuten konsonanttien kahdentumisilmiöt yleisgeminaatio (*tullee*, *mennee*) ja itämurteiden erikoisgeminaatio (*ajettaan*, *isomppii*) sekä svaavokaali (*lehemä*, *kylymä*). Lisäksi yleiskielen ts-yhtymän sijaan käytetään vahvassa asteessa savolaismurteille tyypillistä ht-varianttia (*mehtä*). Heikon asteen vastineet kuitenkin vaihtelevat h:n ja t:n välillä (*mehän*, *metän*). 
 
 Pohjois-Karjalaa muista savolaismurteista erottavia piirteitä ovat esimerkiksi persoonapronominien *mie* ja *sie* käyttö Savossa yleisempien *minä* ja *sinä* -pronominien sijaan sekä osassa aluetta A-loppuisten vokaaliyhtymien oikeneminen iA- ja UA-yhtymissä (*kahvii*, *kouluu*) ja eA- ja OA-yhtymien muuttuminen samaan asuun edellisten kanssa (*korkii* 'korkea', *uskuu* 'uskoa').
 
