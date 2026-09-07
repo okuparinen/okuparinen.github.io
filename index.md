@@ -8,8 +8,8 @@ title: Olli
 
 ## Introduction
 
-I work currently (since September 2024) as an Academy Research Fellow at the Languages unit of Tampere University.
-Before the current position, I was a postdoctoral researcher at Tampere University and a postdoctoral researcher in [Language Technology](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki.  
+I work currently (since September 2026) as an Academy Research Fellow in digital language studies at the University of Turku. I will begin as a university lecturer in digital language studies in 2028.
+Before the current position, I was an Academy Research Fellow and a postdoctoral researcher at Tampere University. Before that, I worked as a postdoctoral researcher in [Language Technology](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki.
 I defended my [PhD thesis](http://urn.fi/URN:ISBN:978-952-03-1990-8) in Finnish language in June 2021.
 
 I visited KU Leuven from 5 Sep to 2 Dec 2022.
