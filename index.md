@@ -21,7 +21,7 @@ I visited KU Leuven from 5 Sep to 2 Dec 2022.
 
 ## Projects
 
-* [Speech as Speech](https://research.fi/en/results/funding/81468), Tampere University 2024-  
+* [Speech as Speech](https://research.fi/en/results/funding/81468), University of Turku, Tampere University 2024-  
 Academy Research Fellowship by the Research Council of Finland
 * [LANGAWARE](https://research.tuni.fi/arkisuomet/en/), Tampere University 2023-  
 PI [Johanna Vaattovaara](https://www.tuni.fi/en/johanna-vaattovaara)
@@ -32,8 +32,8 @@ PI [Unni Leino](https://www.tuni.fi/fi/unni-leino)
 
 ## Contact
 
-* E-mail: firstname.lastname[at]tuni.fi
-* Visiting address: Pinni B, Tampere University
+* E-mail: firstname.lastname[at]utu.fi
+* Visiting address: Arcanum, University of Turku
 
 ## Find me:
 
