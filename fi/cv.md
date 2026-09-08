@@ -6,10 +6,13 @@ i18n-link: cv
 ---
 
 ## Tutkijapaikat
-> **Akatemiatutkija**, kielitiede, Tampereen yliopisto 2024-
+> **Akatemiatutkija**, digitaalinen kielentutkimus, Turun yliopisto 2026-
 > * Puheentunnistuksen ja akustisen mallinnuksen hyödyntäminen kielen vaihtelun tutkimuksessa
 
-> **Apurahatutkija**, suomen kieli, Tampereen yliopisto 2023-
+> **Akatemiatutkija**, kielitiede, Tampereen yliopisto 2024-2026
+> * Puheentunnistuksen ja akustisen mallinnuksen hyödyntäminen kielen vaihtelun tutkimuksessa
+
+> **Apurahatutkija**, suomen kieli, Tampereen yliopisto 2023-2024
 > * Suomalaisten nuorten kieli- ja murreasenteiden valtakunnallinen tutkimus
 
 > **Tutkijatohtori**, kieliteknologia, Helsingin yliopisto, 2021-2023
