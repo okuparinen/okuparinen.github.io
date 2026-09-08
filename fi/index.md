@@ -19,7 +19,7 @@ Väittelin tohtoriksi Tampereen yliopistosta suomen kielen oppiaineesta kesäll�
 
 ## Projektit
 
-* [Puhe puheena](https://research.fi/en/results/funding/81468), Tampereen yliopisto 2024-  
+* [Puhe puheena](https://research.fi/en/results/funding/81468), Turun yliopisto, Tampereen yliopisto 2024-  
 Akatemiatutkijan tehtävä, Suomen Akatemia
 * [Arkisuomet](https://research.tuni.fi/arkisuomet/), Tampereen yliopisto 2023-  
 PI [Johanna Vaattovaara](https://www.tuni.fi/en/johanna-vaattovaara)
@@ -30,8 +30,8 @@ PI [Unni Leino](https://www.tuni.fi/fi/unni-leino)
 
 ## Ota yhteyttä virallisesti
 
-* Sähköposti: etunimi.sukunimi[at]tuni.fi
-* vierailuosoite: Pinni B, Tampereen yliopisto
+* Sähköposti: etunimi.sukunimi[at]utu.fi
+* vierailuosoite: Arcanum, Turun yliopisto
 
 ## tai epävirallisesti
 
